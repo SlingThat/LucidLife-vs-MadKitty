@@ -1,0 +1,22 @@
+Position[] path = {
+    new Position(3182, 3430, 0),
+    new Position(3167, 3427, 0),
+    new Position(3163, 3421, 0),
+    new Position(3157, 3418, 0),
+    new Position(3135, 3416, 0),
+    new Position(3125, 3414, 0),
+    new Position(3121, 3415, 0),
+    new Position(3116, 3420, 0),
+    new Position(3096, 3420, 0),
+    new Position(3080, 3423, 0),
+    new Position(3074, 3424, 0),
+    new Position(3058, 3421, 0),
+    new Position(3040, 3425, 0),
+    new Position(3017, 3430, 0),
+    new Position(2975, 3437, 0),
+    new Position(2958, 3436, 0),
+    new Position(2949, 3434, 0),
+    new Position(2947, 3441, 0),
+    new Position(2945, 3450, 0),
+    new Position(2937, 3450, 0)
+};
